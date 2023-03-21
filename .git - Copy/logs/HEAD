@@ -1,6 +1,0 @@
-0000000000000000000000000000000000000000 d0208383bd919dc8efb2ed73d29cd145afba16ca pauloog <63827192+pauloog@users.noreply.github.com> 1679393530 +0100	clone: from https://github.com/pauloog/pauloog.github.io.git
-d0208383bd919dc8efb2ed73d29cd145afba16ca f9e75b6eaa626a5a7d5f3c6daba9d321bf28a50b pauloog <63827192+pauloog@users.noreply.github.com> 1679394071 +0100	pull --ff --recurse-submodules --progress origin: Fast-forward
-f9e75b6eaa626a5a7d5f3c6daba9d321bf28a50b db88be9b78e6e22105425407450928469b9492fe pauloog <63827192+pauloog@users.noreply.github.com> 1679394105 +0100	commit: Bundle out
-db88be9b78e6e22105425407450928469b9492fe 8a8adf7c6a36a6ee60eebea18e2f8892f38c0ac6 pauloog <63827192+pauloog@users.noreply.github.com> 1679394715 +0100	pull --ff --recurse-submodules --progress origin: Fast-forward
-8a8adf7c6a36a6ee60eebea18e2f8892f38c0ac6 9998d9ce9e146288efea5c1e7c1cc1c421315d4f pauloog <63827192+pauloog@users.noreply.github.com> 1679394787 +0100	commit: updated merlot
-9998d9ce9e146288efea5c1e7c1cc1c421315d4f e1b44a2f7dcd78a253c22d417b01a59b9a5c50f5 pauloog <63827192+pauloog@users.noreply.github.com> 1679395371 +0100	pull --ff --recurse-submodules --progress origin: Fast-forward
